@@ -1,0 +1,15 @@
+.Buttons{
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.shows{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.Hello{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
